@@ -21,6 +21,7 @@
 		4D7C71562BC66614006EFB22 /* ImagesComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C71552BC66614006EFB22 /* ImagesComponent.swift */; };
 		4D867E152B8DB0E000B4A56E /* ColorComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D867E142B8DB0E000B4A56E /* ColorComponent.swift */; };
 		4D89B78C2BE08E3300328976 /* FramesComponenets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D89B78B2BE08E3300328976 /* FramesComponenets.swift */; };
+		4D89B78E2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D89B78D2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		4D7C71552BC66614006EFB22 /* ImagesComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesComponent.swift; sourceTree = "<group>"; };
 		4D867E142B8DB0E000B4A56E /* ColorComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorComponent.swift; sourceTree = "<group>"; };
 		4D89B78B2BE08E3300328976 /* FramesComponenets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesComponenets.swift; sourceTree = "<group>"; };
+		4D89B78D2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 		4D0435E22B848CE400B1569F = {
 			isa = PBXGroup;
 			children = (
+				4D89B78D2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift */,
 				4D0435ED2B848CE400B1569F /* SwiftUI Components */,
 				4D0435FE2B848CE700B1569F /* SwiftUI ComponentsTests */,
 				4D0436082B848CE700B1569F /* SwiftUI ComponentsUITests */,
@@ -279,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D0436192B848E0E00B1569F /* TextComponent.swift in Sources */,
+				4D89B78E2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				4D7C71562BC66614006EFB22 /* ImagesComponent.swift in Sources */,
 				4D89B78C2BE08E3300328976 /* FramesComponenets.swift in Sources */,
 				4D0435F12B848CE400B1569F /* ContentView.swift in Sources */,
