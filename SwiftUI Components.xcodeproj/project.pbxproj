@@ -16,6 +16,9 @@
 		4D04360C2B848CE700B1569F /* SwiftUI_ComponentsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D04360B2B848CE700B1569F /* SwiftUI_ComponentsUITestsLaunchTests.swift */; };
 		4D0436192B848E0E00B1569F /* TextComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0436182B848E0D00B1569F /* TextComponent.swift */; };
 		4D04361B2B8491BD00B1569F /* ShapesComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D04361A2B8491BD00B1569F /* ShapesComponent.swift */; };
+		4D22B1892BE60C9B0041ABD7 /* StacksComponenets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D22B1882BE60C9B0041ABD7 /* StacksComponenets.swift */; };
+		4D22B1C12BE82A690041ABD7 /* PaddingComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D22B1C02BE82A690041ABD7 /* PaddingComponents.swift */; };
+		4D22B1C32BE838D90041ABD7 /* SpacerComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D22B1C22BE838D90041ABD7 /* SpacerComponents.swift */; };
 		4D7C71522BC65542006EFB22 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C71512BC65542006EFB22 /* Gradients.swift */; };
 		4D7C71542BC65DC2006EFB22 /* SystemIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C71532BC65DC2006EFB22 /* SystemIcons.swift */; };
 		4D7C71562BC66614006EFB22 /* ImagesComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D7C71552BC66614006EFB22 /* ImagesComponent.swift */; };
@@ -54,6 +57,9 @@
 		4D04360B2B848CE700B1569F /* SwiftUI_ComponentsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_ComponentsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4D0436182B848E0D00B1569F /* TextComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextComponent.swift; sourceTree = "<group>"; };
 		4D04361A2B8491BD00B1569F /* ShapesComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesComponent.swift; sourceTree = "<group>"; };
+		4D22B1882BE60C9B0041ABD7 /* StacksComponenets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksComponenets.swift; sourceTree = "<group>"; };
+		4D22B1C02BE82A690041ABD7 /* PaddingComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingComponents.swift; sourceTree = "<group>"; };
+		4D22B1C22BE838D90041ABD7 /* SpacerComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerComponents.swift; sourceTree = "<group>"; };
 		4D7C71512BC65542006EFB22 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 		4D7C71532BC65DC2006EFB22 /* SystemIcons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemIcons.swift; sourceTree = "<group>"; };
 		4D7C71552BC66614006EFB22 /* ImagesComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesComponent.swift; sourceTree = "<group>"; };
@@ -122,6 +128,9 @@
 				4D7C71532BC65DC2006EFB22 /* SystemIcons.swift */,
 				4D7C71552BC66614006EFB22 /* ImagesComponent.swift */,
 				4D89B78B2BE08E3300328976 /* FramesComponenets.swift */,
+				4D22B1882BE60C9B0041ABD7 /* StacksComponenets.swift */,
+				4D22B1C02BE82A690041ABD7 /* PaddingComponents.swift */,
+				4D22B1C22BE838D90041ABD7 /* SpacerComponents.swift */,
 			);
 			path = "SwiftUI Components";
 			sourceTree = "<group>";
@@ -284,9 +293,12 @@
 				4D0436192B848E0E00B1569F /* TextComponent.swift in Sources */,
 				4D89B78E2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				4D7C71562BC66614006EFB22 /* ImagesComponent.swift in Sources */,
+				4D22B1C12BE82A690041ABD7 /* PaddingComponents.swift in Sources */,
 				4D89B78C2BE08E3300328976 /* FramesComponenets.swift in Sources */,
 				4D0435F12B848CE400B1569F /* ContentView.swift in Sources */,
+				4D22B1C32BE838D90041ABD7 /* SpacerComponents.swift in Sources */,
 				4D0435EF2B848CE400B1569F /* SwiftUI_ComponentsApp.swift in Sources */,
+				4D22B1892BE60C9B0041ABD7 /* StacksComponenets.swift in Sources */,
 				4D04361B2B8491BD00B1569F /* ShapesComponent.swift in Sources */,
 				4D867E152B8DB0E000B4A56E /* ColorComponent.swift in Sources */,
 				4D7C71522BC65542006EFB22 /* Gradients.swift in Sources */,
