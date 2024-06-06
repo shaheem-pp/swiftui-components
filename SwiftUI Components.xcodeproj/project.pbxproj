@@ -100,8 +100,6 @@
 		4D0435E22B848CE400B1569F = {
 			isa = PBXGroup;
 			children = (
-				4DE6CC6B2C115A17005E20A0 /* ForEachBootcamp.swift */,
-				4D89B78D2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift */,
 				4D0435ED2B848CE400B1569F /* SwiftUI Components */,
 				4D0435FE2B848CE700B1569F /* SwiftUI ComponentsTests */,
 				4D0436082B848CE700B1569F /* SwiftUI ComponentsUITests */,
@@ -124,6 +122,7 @@
 			children = (
 				4D0435EE2B848CE400B1569F /* SwiftUI_ComponentsApp.swift */,
 				4D0435F02B848CE400B1569F /* ContentView.swift */,
+				4D89B78D2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift */,
 				4D0435F22B848CE700B1569F /* Assets.xcassets */,
 				4D0435F42B848CE700B1569F /* Preview Content */,
 				4D0436182B848E0D00B1569F /* TextComponent.swift */,
@@ -137,6 +136,7 @@
 				4D22B1C02BE82A690041ABD7 /* PaddingComponents.swift */,
 				4D22B1C22BE838D90041ABD7 /* SpacerComponents.swift */,
 				4D22B1C42BE853740041ABD7 /* InitsAndEnums.swift */,
+				4DE6CC6B2C115A17005E20A0 /* ForEachBootcamp.swift */,
 			);
 			path = "SwiftUI Components";
 			sourceTree = "<group>";
