@@ -26,6 +26,7 @@
 		4D867E152B8DB0E000B4A56E /* ColorComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D867E142B8DB0E000B4A56E /* ColorComponent.swift */; };
 		4D89B78C2BE08E3300328976 /* FramesComponenets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D89B78B2BE08E3300328976 /* FramesComponenets.swift */; };
 		4D89B78E2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D89B78D2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift */; };
+		4DE6CC6C2C115A17005E20A0 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE6CC6B2C115A17005E20A0 /* ForEachBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		4D867E142B8DB0E000B4A56E /* ColorComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorComponent.swift; sourceTree = "<group>"; };
 		4D89B78B2BE08E3300328976 /* FramesComponenets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesComponenets.swift; sourceTree = "<group>"; };
 		4D89B78D2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
+		4DE6CC6B2C115A17005E20A0 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		4D0435E22B848CE400B1569F = {
 			isa = PBXGroup;
 			children = (
+				4DE6CC6B2C115A17005E20A0 /* ForEachBootcamp.swift */,
 				4D89B78D2BE0944200328976 /* BackgroundAndOverlayBootcamp.swift */,
 				4D0435ED2B848CE400B1569F /* SwiftUI Components */,
 				4D0435FE2B848CE700B1569F /* SwiftUI ComponentsTests */,
@@ -301,6 +304,7 @@
 				4D0435F12B848CE400B1569F /* ContentView.swift in Sources */,
 				4D22B1C32BE838D90041ABD7 /* SpacerComponents.swift in Sources */,
 				4D0435EF2B848CE400B1569F /* SwiftUI_ComponentsApp.swift in Sources */,
+				4DE6CC6C2C115A17005E20A0 /* ForEachBootcamp.swift in Sources */,
 				4D22B1C52BE853740041ABD7 /* InitsAndEnums.swift in Sources */,
 				4D22B1892BE60C9B0041ABD7 /* StacksComponenets.swift in Sources */,
 				4D04361B2B8491BD00B1569F /* ShapesComponent.swift in Sources */,
